@@ -1,0 +1,14 @@
+{
+  "company_name": "Samanala Bookshop",
+  "company_address": "123 Main Street, City",
+  "company_phone": "+1 555-0100",
+  "company_email": "info@nexflow.com",
+  "company_logo": "",
+  "logo_url": "https://via.placeholder.com/200x80?text=NexFlow",
+  "currency": "USD",
+  "currency_symbol": "Rs.",
+  "tax_rate": 10.0,
+  "subscription_expiry": 1800000000000,
+  "username": "admin",
+  "password": "admin123"
+}
