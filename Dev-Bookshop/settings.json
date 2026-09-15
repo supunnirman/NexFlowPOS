@@ -5,10 +5,10 @@
   "company_email": "info@nexflow.com",
   "company_logo": "",
   "logo_url": "https://via.placeholder.com/200x80?text=NexFlow",
-  "currency": "USD",
+  "currency": "LKR",
   "currency_symbol": "Rs.",
   "tax_rate": 10.0,
-  "subscription_expiry": 1800000000000,
+  "subscription_expiry": 30-09-2026:13:00,
   "username": "admin",
   "password": "admin123"
 }
