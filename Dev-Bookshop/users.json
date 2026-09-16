@@ -1,1 +1,54 @@
-[{"createdAt":1789468831533,"fullName":"Administrator","id":1,"isActive":true,"oneClickLogin":false,"password":"admin123","pinHash":"","quickLoginType":"NONE","role":"ADMIN","username":"admin"},{"createdAt":1789474104052,"fullName":"Cashier User","id":2,"isActive":true,"oneClickLogin":false,"password":"1234","pinHash":"","quickLoginType":"NONE","role":"CASHIER","username":"cashier"},{"createdAt":1789472515956,"fullName":"Nirmali","id":3,"isActive":true,"oneClickLogin":false,"password":"123123","pinHash":"","quickLoginType":"NONE","role":"CASHIER","username":"nirmali"}]
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "password": "admin123",
+    "fullName": "Administrator",
+    "role": "ADMIN",
+    "isActive": true,
+    "oneClickLogin": false,
+    "quickLoginType": "NONE",
+    "pinHash": "",
+    "permissions": "POS,INVOICES,INVENTORY,ACCOUNTS,REPORTS",
+    "createdAt": 1789400000000
+  },
+  {
+    "id": 2,
+    "username": "manager",
+    "password": "manager123",
+    "fullName": "Shop Manager",
+    "role": "MANAGER",
+    "isActive": true,
+    "oneClickLogin": false,
+    "quickLoginType": "NONE",
+    "pinHash": "",
+    "permissions": "POS,INVOICES,INVENTORY,ACCOUNTS,REPORTS",
+    "createdAt": 1789400000000
+  },
+  {
+    "id": 3,
+    "username": "cashier1",
+    "password": "1234",
+    "fullName": "Cashier 1",
+    "role": "CASHIER",
+    "isActive": true,
+    "oneClickLogin": true,
+    "quickLoginType": "PIN",
+    "pinHash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+    "permissions": "POS",
+    "createdAt": 1789400000000
+  },
+  {
+    "id": 4,
+    "username": "cashier2",
+    "password": "5678",
+    "fullName": "Cashier 2",
+    "role": "CASHIER",
+    "isActive": true,
+    "oneClickLogin": false,
+    "quickLoginType": "NONE",
+    "pinHash": "",
+    "permissions": "POS,INVOICES",
+    "createdAt": 1789400000000
+  }
+]
