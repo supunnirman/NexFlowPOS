@@ -1,1 +1,20 @@
-{"company_address":"213, Kottawa, pannipitiya","company_email":"","company_logo":"","company_name":"Samantha Bookshop","company_phone":"642687t","currency":"LKR ","currency_symbol":"Rs.","logo_url":"/data/user/0/com.andropos.online/files/images/logo_1789472464302.jpg","receipt_type":"THERMAL_4INCH","subscription_expiry":"30-09-2026:05:30","tax_rate":0.0}
+{
+  "company_name": "Samanala Bookshop",
+  "company_address": "123 Main Street, City",
+  "company_phone": "+1 555-0100",
+  "company_email": "info@nexflow.com",
+  "company_logo": "",
+  "logo_url": "https://via.placeholder.com/200x80?text=NexFlow",
+  "currency": "LKR",
+  "currency_symbol": "Rs.",
+  "tax_rate": 10.0,
+  "subscription_expiry": "30-12-2026:13:00",
+  "admin": {
+    "username": "admin",
+    "password": "admin123"
+  },
+  "admin_username": "admin",
+  "admin_password": "123123",
+  "approved_devices": ["R9TR60AD8CJ"],
+  "device_serial": "R9TR60AD8CJ"
+}
